@@ -1,0 +1,15 @@
+Tarefas:
+
+Demandas de Alta Prioridade
+*Criar conteúdo para a página "Saiba Mais".
+*Criar conteúdo para a página "Dúvidas Frequêntes".
+*Adicionar dashicons nas categorias da home.
+*Customizar o bloco de resultados de acordo com a categoria.
+*Inserir controle em Js para executar pesquisas somente se existir algo para pesquisar.
+
+Demandas que precisam de internet:
+*Criar conteúdo para a página "Anuncie" (Contact Form 7).
+*Corrigir o bg do logotipo com de fundo.
+*Trocar textos por dashicons no bloco de resultados.
+*Adicionar dashicons sociais no bloco de resultados.
+*Adicionar dashicons nas barras de pesquisa.
